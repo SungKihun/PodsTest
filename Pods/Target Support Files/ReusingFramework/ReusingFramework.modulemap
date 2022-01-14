@@ -1,0 +1,6 @@
+framework module ReusingFramework {
+  umbrella header "ReusingFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

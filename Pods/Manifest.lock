@@ -1,0 +1,16 @@
+PODS:
+  - ReusingFramework (0.1.0)
+
+DEPENDENCIES:
+  - ReusingFramework
+
+SPEC REPOS:
+  trunk:
+    - ReusingFramework
+
+SPEC CHECKSUMS:
+  ReusingFramework: 7f7683e2b97aa3699aeff0587b400943582e8a93
+
+PODFILE CHECKSUM: 8d74e297a71c453ab9cfc25419f2457710bc598b
+
+COCOAPODS: 1.11.2
